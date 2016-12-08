@@ -36,7 +36,8 @@ void bfs(const vector<vector<int> >&graph, int N, vector<int>& S, const vector<i
 		}
     	}
 }
-int main() {
+int main()
+{
     	int T;
     	scanf("%d", &T);
 	int test, src, dest, i, nodes, edges, soldier, number, strn, org, temp;
