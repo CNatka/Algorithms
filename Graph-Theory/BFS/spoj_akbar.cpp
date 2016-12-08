@@ -1,9 +1,9 @@
 /*-------------------------------------------------------------------------------------------
 *	Name 			: CNatka
 *	Problem 		: AKBAR
-* Source  		: Spoj
+* 	Source  		: Spoj
 *	Link			: http://www.spoj.com/problems/AKBAR/
-*	DS				: Graph
+*	DS			: Graph
 *	Algo			: bfs
 *	Date			: Dec 08, 2016
 *	Complexityy		: O(N+R) 	|| AC(0.28 sec)
