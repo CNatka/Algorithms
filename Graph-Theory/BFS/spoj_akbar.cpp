@@ -4,14 +4,14 @@
 * 	Source  		: Spoj
 *	Link			: http://www.spoj.com/problems/AKBAR/
 *	DS			: Graph
-*	Algo			: bfs
+*	Algo			: BFS
 *	Date			: Dec 08, 2016
 *	Complexityy		: O(N+R) 	|| AC(0.28 sec)
 *	Solved			: Read help after my TLE attempts http://codeforces.com/blog/entry/43713
-*	Alternative Sol	: dfs
-*	Note 			: This code should be used for the purpose of learning only, use 
-*					  it at your own risk	
+*	Alternative Sol		: DFS
+*	Note 			: This code should be used for the purpose of learning only, use it at your own risk				 	
 ---------------------------------------------------------------------------------------------*/
+
 #include <cstdio>
 #include <list>
 #include <queue>
