@@ -1,15 +1,15 @@
 /*-------------------------------------------------------------------------------------------
-*	Name 			      : CNatka
+*	Name 			: CNatka
 *	Problem 	    	: ABCPATH
-* Source  		    : Spoj
-*	Link			      : http://www.spoj.com/problems/ABCPATH/
-*	DS				      : Graph
-*	Algo			      : DFS
-*	Date			      : Dec 09, 2016
-*	Complexityy		  : O(H+W) || AC(0.00 sec)  		
-*	Solved			    : self
-*	Alternative Sol	: NA
-*	Note 			      : This code should be used for the purpose of learning only, use it at your own risk	
+* 	Source  		: Spoj
+*	Link			: http://www.spoj.com/problems/ABCPATH/
+*	DS			: Graph
+*	Algo			: DFS
+*	Date			: Dec 09, 2016
+*	Complexityy		: O(H+W) || AC(0.00 sec)  		
+*	Solved			: self
+*	Alternative Sol		: NA
+*	Note 			: This code should be used for the purpose of learning only, use it at your own risk	
 ---------------------------------------------------------------------------------------------*/
 
 #include <cstdio>
