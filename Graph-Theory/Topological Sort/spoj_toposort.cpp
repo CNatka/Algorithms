@@ -1,15 +1,15 @@
 /*--------------------------------------------------------------------------------------------------------
-*	Name			      :	  CNatka
-*	Problem			    :	  TOPOSORT
-*	Source			    :	  Spoj
-*	Link			      :	  http://www.spoj.com/problems/TOPOSORT/
-*	DS				      :	  Graph
-*	Algo			      :	  Topological Sort
-*	Date			      :	  Dec 11, 2016
-*	Complexity		  :	  O(n+m)	|| AC(0.09 sec)
-*	Solved			    :	  self
-*	Alternative Sol	:	  https://www.quora.com/How-should-we-go-about-solving-TOPOSORT-in-SPOJ
-*	Note			      :	  This code should be used for the purpose of learning only, use it at your own risk
+*	Name			:	CNatka
+*	Problem			:	TOPOSORT
+*	Source			:	Spoj
+*	Link			:	http://www.spoj.com/problems/TOPOSORT/
+*	DS			:	Graph
+*	Algo			:	Topological Sort
+*	Date			:	Dec 11, 2016
+*	Complexity		:	O(n+m)	|| AC(0.09 sec)
+*	Solved			:	self
+*	Alternative Sol		:	https://www.quora.com/How-should-we-go-about-solving-TOPOSORT-in-SPOJ
+*	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 #include <cstdio>
 #include <vector>
