@@ -3,12 +3,12 @@
 *	Problem			:	SCAVHUNT
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/SCAVHUNT/
-*	DS				:	Hash Table
+*	DS			:	Hash Table
 *	Algo			:	Find start and end and then print the elements using hash table
 *	Date			:	Dec 12, 2016
 *	Complexity		:	O(s*logs)	AC(0.05 sec)
 *	Solved			:	self
-*	Alternative Sol	:	Topological Sort
+*	Alternative Sol		:	Topological Sort
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
