@@ -3,12 +3,12 @@
 *	Problem			:	LUCKY713
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/LUCKY713/
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	Arithmetic Progression : Sum = (n*(a+l))/2, nth term = a + (n-1)*d
 *	Date			:	Dec 12, 2016
 *	Complexity		:	O(1)	||	AC(0.00 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
