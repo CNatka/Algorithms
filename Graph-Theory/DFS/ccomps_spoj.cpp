@@ -3,12 +3,12 @@
 *	Problem			:	CCOMPS
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/CCOMPS/
-*	DS				:	Graph
+*	DS			:	Graph
 *	Algo			:	DFS
 *	Date			:	Dec 13, 2016
 *	Complexity		:	O(n+m)	|| Problem can not be submitted
 *	Solved			:	self
-*	Alternative Sol	:	BFS
+*	Alternative Sol		:	BFS
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
