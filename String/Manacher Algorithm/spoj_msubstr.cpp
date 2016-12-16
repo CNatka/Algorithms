@@ -3,12 +3,12 @@
 *	Problem			:	MSUBSTR
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/MSUBSTR/
-*	DS				:	String
+*	DS			:	String
 *	Algo			:	Manacher's algorithm
 *	Date			:	Dec 16, 2016
 *	Complexity		:	O(n)	||	AC(0.14 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
