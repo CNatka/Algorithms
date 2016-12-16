@@ -6,7 +6,7 @@
 *	DS			:	String
 *	Algo			:	Manacher's algorithm
 *	Date			:	Dec 16, 2016
-*	Complexity		:	O(n)	||	AC(0.14 sec)
+*	Complexity		:	O(n)	||	AC(0.01 sec)
 *	Solved			:	self
 *	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
@@ -21,9 +21,9 @@ using namespace std;
 void manacher(vector<int>& A, vector<int>& B, string s, int& m)
 {
 	int n = s.size();
+	int l = 0, r = -1;
 	for(int i=0; i<n; i++)
 	{
-		int l = 0, r = -1;
 		int k = (i > r ? 0 : min(A[l+r-i]-1, r-i))+1;
 		while(i+k < n && i-k >= 0 && s[i+k]==s[i-k])	++k;
 		A[i] = k--;
@@ -34,9 +34,9 @@ void manacher(vector<int>& A, vector<int>& B, string s, int& m)
 			l = i-k;
 		}
 	}
+	l = 0, r = -1;
 	for(int i=0; i<n; i++)
 	{
-		int l = 0, r = -1;
 		int k = (i > r ? 0 : min(B[l+r-i+1], r-i+1) )+1;
 		while(i+k-1 < n && i-k >= 0 && s[i+k-1]==s[i-k]	) ++k;
 		B[i] = --k;
