@@ -3,12 +3,12 @@
 *	Problem			:	LPS
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/LPS/
-*	DS				:	String
+*	DS			:	String
 *	Algo			:	Manacher's algorithm
 *	Date			:	Dec 17, 2016
 *	Complexity		:	O(n)	||	AC(0.00 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *	No Idea			:	WA for string and AC for char[]
 *----------------------------------------------------------------------------------------------------------*/
@@ -55,8 +55,8 @@ int manacher(char* S, int n)
 int main()
 {
 	int N;
-    scanf("%d",&N);
-    char s[N + 1];
+    	scanf("%d",&N);
+    	char s[N + 1];
  	scanf("%s",s);
  //   cin.clear(); cin.ignore(1, '\n');
  //   string s;
