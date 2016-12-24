@@ -3,12 +3,12 @@
 *	Problem			:	EC_P
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/EC_P/
-*	DS				:	Graph
+*	DS			:	Graph
 *	Algo			:	Tarjan's Algorithm, Sorting, DFS
 *	Date			:	Dec 24, 2016
 *	Complexity		:	O(NC*(N+M))	||	AC(0.04)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
