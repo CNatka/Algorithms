@@ -3,12 +3,12 @@
 *	Problem			:	SUBMERGE
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/SUBMERGE/
-*	DS				:	Graph
+*	DS			:	Graph
 *	Algo			:	Tarjan's Algorithm, Articulation Point, DFS
 *	Date			:	Dec 24, 2016
 *	Complexity		:	O(N+M)	|| AC(0.04 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
