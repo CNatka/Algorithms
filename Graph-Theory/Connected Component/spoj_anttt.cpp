@@ -3,12 +3,13 @@
 *	Problem			:	ANTTT
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/ANTTT/
-*	DS				:	Graph
+*	DS			:	Graph
 *	Algo			:	DFS, Connected Component, Union Find, line segment intersect
 *	Date			:	Dec 24, 2016
 *	Complexity		:	O(N*N)	||	AC(0.11 sec)
 *	Solved			:	Copied code of line segment intersection check from GeeksForGeeks(in my ToDo list)
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
+*	Note			:	Below Code requires cleaning
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
