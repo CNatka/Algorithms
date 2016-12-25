@@ -75,7 +75,7 @@ int main()
 	}
 	int count = 0;
 	for(int i=0; i<comNo; i++)
-		if(IN[i] == 0)	count++;				// counting nodes whose in degree in zero in component graph
+		if(IN[i] == 0)	count++;				// counting nodes whose in degree is zero in component graph
 	if(count > 1)
 	{
 		printf("0\n");
