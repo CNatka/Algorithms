@@ -3,12 +3,12 @@
 *	Problem			:	CAPCITY
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/CAPCITY/
-*	DS				:	Graph, Component Graph
+*	DS			:	Graph, Component Graph
 *	Algo			:	Kosaraju Sharir's algorithm to find SCC, DFS 
 *	Date			:	Dec 25, 2016
 *	Complexity		:	O(N+M)	||	AC(0.72 sec)
 *	Solved			:	After reading the solution description : https://onlinejudge.wordpress.com/2011/07/20/spoj-capcity/
-*	Alternative Sol	:	Tarjan's Algorithm to find the SCC
+*	Alternative Sol		:	Tarjan's Algorithm to find the SCC
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
@@ -57,8 +57,8 @@ int main()
 			DFS1(G, i, visited, topoOrder);
 	}
 	visited.assign(N, false);
-	vector<int> Component(N,-1);				// Component number for each vertex
-	int comNo = 0;								// Component Number
+	vector<int> Component(N,-1);					// Component number for each vertex
+	int comNo = 0;							// Component Number
 	for(int i=0; i<N; i++)
 	{
 		int u = topoOrder[N-1-i];
@@ -88,7 +88,7 @@ int main()
 		{
 			if(IN[ Component[u] ] == 0)		
 			{
-				count++;						// counting nodes in actual graph whose Component in Component graph has zero inDegree
+				count++;				// counting nodes in actual graph whose Component in Component graph has zero inDegree
 				CandidateCities.push_back(u);
 			}
 		}
