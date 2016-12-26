@@ -3,12 +3,12 @@
 *	Problem			:	CAPCITY
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/CAPCITY/
-*	DS				:	Graph, Component Graph
+*	DS			:	Graph, Component Graph
 *	Algo			:	Tarjan's algorithm to find SCC, DFS 
 *	Date			:	Dec 26, 2016
 *	Complexity		:	O(N+M)	||	AC(0.90 sec)
 *	Solved			:	After reading the solution description : https://onlinejudge.wordpress.com/2011/07/20/spoj-capcity/
-*	Alternative Sol	:	Kosaraju Sharir's Algorithm to find the SCC
+*	Alternative Sol		:	Kosaraju Sharir's Algorithm to find the SCC
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
