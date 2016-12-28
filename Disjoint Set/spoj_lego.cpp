@@ -3,13 +3,13 @@
 *	Problem			:	LEGO
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/LEGO/
-*	DS				:	Disjoint Set
+*	DS			:	Disjoint Set
 *	Algo			:	Union Find, Sorting
 *	Date			:	Dec 28, 2016
 *	Complexity		:	O(N*logN)	||	AC(0.21 sec)
 *	Solved			:	read from https://github.com/mukel/ProgrammingContests/blob/master/OldStuff/SPOJ/new10/lego.cpp
-*						and then self implemented
-*	Alternative Sol	:	Connected Component (I couldn't get TLE resolved)
+*					and then self implemented
+*	Alternative Sol		:	Connected Component (I couldn't get TLE resolved)
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
