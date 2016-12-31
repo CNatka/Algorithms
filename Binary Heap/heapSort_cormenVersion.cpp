@@ -1,11 +1,11 @@
 /*--------------------------------------------------------------------------------------------------------
 *	Name			:	CNatka
-*	DS				:	Binary Heap
+*	DS			:	Binary Heap
 *	Algo			:	Heapsort
 *	Date			:	Dec 31, 2016
 *	Complexity		:	O(N*logN)
 *	Solved			:	read from Cormen and implemented, Read while needed min priority queue for Prim's algo
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
