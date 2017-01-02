@@ -1,8 +1,8 @@
 /*--------------------------------------------------------------------------------------------------------
 *	Name			:	CNatka
-*	Problem			:	LEGO
+*	Problem			:	MST
 *	Source			:	Spoj
-*	Link			:	http://www.spoj.com/problems/LEGO/
+*	Link			:	http://www.spoj.com/problems/MST/
 *	DS			:	Graph, Disjoint Set
 *	Algo			:	kruskal's algorithm, Union Find, Sorting
 *	Date			:	Jan 02, 2017
