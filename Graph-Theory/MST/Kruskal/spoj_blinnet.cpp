@@ -3,12 +3,12 @@
 *	Problem			:	BLINNET
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/BLINNET/
-*	DS				:	Graph, Disjoint Set
+*	DS			:	Graph, Disjoint Set
 *	Algo			:	kruskal's algorithm, Union Find, Sorting
 *	Date			:	Jan 02, 2017
 *	Complexity		:	O(s*sigma(P)*logN)	||	AC(0.12 sec)
 *	Solved			:	self
-*	Alternative Sol	:	Prim's Algorithm
+*	Alternative Sol		:	Prim's Algorithm
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
