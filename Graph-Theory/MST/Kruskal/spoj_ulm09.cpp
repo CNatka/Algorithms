@@ -3,12 +3,12 @@
 *	Problem			:	ULM09
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/ULM09/
-*	DS				:	Graph, Disjoint Set
+*	DS			:	Graph, Disjoint Set
 *	Algo			:	kruskal's algorithm, Union Find, Sorting
 *	Date			:	Jan 03, 2017
 *	Complexity		:	O(n*logm)	||	AC(0.05 sec)
 *	Solved			:	self
-*	Alternative Sol	:	Prim's Algorithm
+*	Alternative Sol		:	Prim's Algorithm
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
