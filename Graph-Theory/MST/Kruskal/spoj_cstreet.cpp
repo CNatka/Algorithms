@@ -3,12 +3,12 @@
 *	Problem			:	CSTREET
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/CSTREET/
-*	DS				:	Graph, Disjoint Set
+*	DS			:	Graph, Disjoint Set
 *	Algo			:	kruskal's algorithm, Union Find, Sorting
 *	Date			:	Jan 02, 2017
 *	Complexity		:	O(t*m*logn)	||	AC(0.02 sec)
 *	Solved			:	self
-*	Alternative Sol	:	Prim's Algorithm
+*	Alternative Sol		:	Prim's Algorithm
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
