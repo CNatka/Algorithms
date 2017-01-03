@@ -3,12 +3,12 @@
 *	Problem			:	CSTREET
 *	Source			:	Spoj
 *	Link			:	http://www.spoj.com/problems/CSTREET/
-*	DS				:	Graph, Min Priority Queue
+*	DS			:	Graph, Min Priority Queue
 *	Algo			:	Prim's Algorithm
 *	Date			:	Jan 03, 2017
 *	Complexity		:	O(t*m*n*logn)	||	AC(0.04 sec)
 *	Solved			:	self
-*	Alternative Sol	:	Kruskal's Algorithm
+*	Alternative Sol		:	Kruskal's Algorithm
 *	Note			:	Code can be more clean
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
