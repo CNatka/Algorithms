@@ -3,7 +3,7 @@
 *	Problem			:	Lazy Loading
 *	Source			:	Facebook Hacker Cup Qualification Round 2017
 *	Link			:	https://www.facebook.com/hackercup/problem/169401886867367/ (Link might not work in future)
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	sorting
 *	Date			:	Jan 07, 2017
 *	Accepted		:	AC
