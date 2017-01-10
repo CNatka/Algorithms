@@ -3,7 +3,7 @@
 *	Problem			:	Progress Pie
 *	Source			:	Facebook Hacker Cup Qualification Round 2017
 *	Link			:	https://www.facebook.com/hackercup/problem/1254819954559001/ (Link might not work in future)
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	Geometry
 *	Date			:	Jan 07, 2017
 *	Accepted		:	No (one test case failed out of 2005)
