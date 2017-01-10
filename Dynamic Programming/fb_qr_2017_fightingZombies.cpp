@@ -3,7 +3,7 @@
 *	Problem			:	Fighting the Zombie
 *	Source			:	Facebook Hacker Cup Qualification Round 2017
 *	Link			:	https://www.facebook.com/hackercup/problem/326053454264498/ (Link might not work in future)
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	Dynamic Programming, Probability
 *	Date			:	Jan 08, 2017
 *	Accepted		:	AC
