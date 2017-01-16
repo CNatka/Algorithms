@@ -1,3 +1,17 @@
+/*--------------------------------------------------------------------------------------------------------
+*	Name			:	CNatka
+*	Problem			:	Pie Progress
+*	Source			:	Facebook Hacker Cup 1st Round 2017
+*	Link			:	https://www.facebook.com/hackercup/problem/1800890323482794/ (Link might not work in future)
+*	DS			:	NA
+*	Algo			:	Dynamic Programming, greedy
+*	Date			:	Jan 15, 2017
+*	Accepted		:	AC
+*	Solved			:	self
+*	Note			:	This code should be used for the purpose of learning only, use it at your own risk
+*----------------------------------------------------------------------------------------------------------*/
+
+
 #include <cstdio>
 #include <vector>
 #include <algorithm>
