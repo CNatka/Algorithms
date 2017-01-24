@@ -3,12 +3,12 @@
 *	Problem			:	DIGITSEP
 *	Source			:	Codechef
 *	Link			:	https://www.codechef.com/problems/DIGITSEP
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	Recursion, gcd
 *	Date			:	Jan 17, 2017
 *	Complexity		:	short input : AC(0.00 sec), large input : TLE
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
