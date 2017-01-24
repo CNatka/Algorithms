@@ -3,12 +3,12 @@
 *	Problem			:	CAPIMOVE
 *	Source			:	Codechef
 *	Link			:	https://www.codechef.com/problems/CAPIMOVE
-*	DS				  :	Graph
+*	DS			:	Graph
 *	Algo			:	Sorting, Iteration
 *	Date			:	Jan 14, 2017
 *	Complexity		:	O(T*N)	||	AC(0.29 sec)
 *	Solved			:	self
-*	Alternative Sol:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
