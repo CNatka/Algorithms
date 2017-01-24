@@ -25,18 +25,18 @@ bool ifStable(const vector<string>& V, const int N, const int M)
 		{
 			if(V[i][j] == 'A')
 			{
-				if(j==0)								continue;
-				if(V[i][j-1]=='W')						return false;
+				if(j==0)				continue;
+				if(V[i][j-1]=='W')			return false;
 			}
 			else if(V[i][j] == 'W')
 			{
-				if(j==0 || j==(M-1))					return false;
-				if(V[i][j-1]=='A')						return false;
-				if(i<(N-1) && V[i+1][j]=='A')			return false;
+				if(j==0 || j==(M-1))			return false;
+				if(V[i][j-1]=='A')			return false;
+				if(i<(N-1) && V[i+1][j]=='A')		return false;
 			}
 			else
 			{
-				if(i==(N-1))							continue;
+				if(i==(N-1))				continue;
 				if(V[i+1][j]=='W' || V[i+1][j]=='A')	return false;
 			}
 		}
