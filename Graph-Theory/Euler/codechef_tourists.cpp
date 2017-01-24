@@ -3,12 +3,12 @@
 *	Problem			:	TOURISTS
 *	Source			:	Codechef
 *	Link			:	https://www.codechef.com/problems/TOURISTS
-*	DS				:	Graph
+*	DS			:	Graph
 *	Algo			:	Euler Circuit
 *	Date			:	Jan 17, 2017
 *	Complexity		:	O(E*logE)	||	AC(0.15 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
