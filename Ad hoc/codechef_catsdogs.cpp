@@ -3,12 +3,12 @@
 *	Problem			:	CATSDOGS
 *	Source			:	Codechef
 *	Link			:	https://www.codechef.com/problems/CATSDOGS
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	NA
 *	Date			:	Jan 14, 2017
 *	Complexity		:	O(1)	||	AC(0.04 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
