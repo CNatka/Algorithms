@@ -3,12 +3,12 @@
 *	Problem			:	RESERVOI
 *	Source			:	Codechef
 *	Link			:	https://www.codechef.com/problems/RESERVOI
-*	DS				:	NA
+*	DS			:	NA
 *	Algo			:	Simple Iteration
 *	Date			:	Jan 14, 2017
 *	Complexity		:	O(N*M)	||	AC(0.49 sec)
 *	Solved			:	self
-*	Alternative Sol	:	NA
+*	Alternative Sol		:	NA
 *	Note			:	This code should be used for the purpose of learning only, use it at your own risk
 *----------------------------------------------------------------------------------------------------------*/
 
