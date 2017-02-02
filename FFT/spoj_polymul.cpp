@@ -3,12 +3,12 @@
 *	Problem 		: POLYMUL
 * 	Source  		: Spoj
 *	Link			: http://www.spoj.com/problems/POLYMUL/
-*	DS				: NA
+*	DS			: NA
 *	Algo			: FFT
 *	Date			: Feb 02, 2017	
 *	Complexityy		: O(T*nlogn) 	||	AC(0.18 sec)
 *	Solved			: self, picked the code of FFT from web after reading from CLRS
-*	Alternative Sol	: NA
+*	Alternative Sol		: NA
 *	Note 			: This code should be used for the purpose of learning only, use 
 *					  it at your own risk	
 ---------------------------------------------------------------------------------------------*/
