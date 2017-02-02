@@ -10,7 +10,7 @@
 *	Solved			: self, picked the code of FFT from web after reading from CLRS
 *	Alternative Sol		: NA
 *	Note 			: This code should be used for the purpose of learning only, use 
-*					  it at your own risk	
+*				  it at your own risk	
 ---------------------------------------------------------------------------------------------*/
 
 #include <vector>
